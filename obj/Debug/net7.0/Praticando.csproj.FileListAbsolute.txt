@@ -1,0 +1,15 @@
+C:\Users\ped-r\Documents\C#\Praticando\bin\Debug\net7.0\Praticando.exe
+C:\Users\ped-r\Documents\C#\Praticando\bin\Debug\net7.0\Praticando.deps.json
+C:\Users\ped-r\Documents\C#\Praticando\bin\Debug\net7.0\Praticando.runtimeconfig.json
+C:\Users\ped-r\Documents\C#\Praticando\bin\Debug\net7.0\Praticando.dll
+C:\Users\ped-r\Documents\C#\Praticando\bin\Debug\net7.0\Praticando.pdb
+C:\Users\ped-r\Documents\C#\Praticando\obj\Debug\net7.0\Praticando.csproj.AssemblyReference.cache
+C:\Users\ped-r\Documents\C#\Praticando\obj\Debug\net7.0\Praticando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ped-r\Documents\C#\Praticando\obj\Debug\net7.0\Praticando.AssemblyInfoInputs.cache
+C:\Users\ped-r\Documents\C#\Praticando\obj\Debug\net7.0\Praticando.AssemblyInfo.cs
+C:\Users\ped-r\Documents\C#\Praticando\obj\Debug\net7.0\Praticando.csproj.CoreCompileInputs.cache
+C:\Users\ped-r\Documents\C#\Praticando\obj\Debug\net7.0\Praticando.dll
+C:\Users\ped-r\Documents\C#\Praticando\obj\Debug\net7.0\refint\Praticando.dll
+C:\Users\ped-r\Documents\C#\Praticando\obj\Debug\net7.0\Praticando.pdb
+C:\Users\ped-r\Documents\C#\Praticando\obj\Debug\net7.0\Praticando.genruntimeconfig.cache
+C:\Users\ped-r\Documents\C#\Praticando\obj\Debug\net7.0\ref\Praticando.dll
